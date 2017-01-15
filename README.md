@@ -8,6 +8,7 @@ This story began [here in Twitter](https://twitter.com/mamal72/status/8203395400
 
 |Repositories|
 |:-------|:-------|
+| [JavaScript](https://github.com/mamal72/body/) |
 | [Go](https://github.com/arastu/body/) |
 | [Python](https://github.com/ShalbafZadeh/body) |
 | [Ruby](https://github.com/prp-e/body) |
